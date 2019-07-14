@@ -38,3 +38,6 @@ async function testWebSocket(ticker, timeframe) {
 // testWebSocket("BTC-PERP", "1m")
 
 module.exports = { testWebSocket }
+
+// ASHDLADXZCZC
+// 2019-07-15T01:50:42 – hhQeSgFBK9I7eR6lEA8p
