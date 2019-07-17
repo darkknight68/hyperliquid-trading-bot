@@ -41,3 +41,6 @@ module.exports = {
     shortEMA,
     longEMA,
 }
+
+// ASHDLADXZCZC
+// 2019-07-17T21:43:54 – jK8RTV8F9yWGPcd1yyHH
