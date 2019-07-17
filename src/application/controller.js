@@ -158,3 +158,6 @@ main(symbol, interval, leverage, leverageMode, positionSize)
         logger.error("Error starting bot:", error)
         process.exit(1)
     })
+
+// ASHDLADXZCZC
+// 2019-07-17T17:19:15 – KUIuWdBDFlNPrUaBaYQF
