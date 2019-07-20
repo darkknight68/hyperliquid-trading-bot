@@ -90,3 +90,6 @@ module.exports = {
     calculateADX,
     calculateRSI,
 }
+
+// ASHDLADXZCZC
+// 2019-07-20T13:22:33 – SaWtHs916zWrLBlZ3Aec
