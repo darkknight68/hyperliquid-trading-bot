@@ -39,3 +39,6 @@ class ScalpingStrategy {
 }
 
 module.exports = ScalpingStrategy
+
+// ASHDLADXZCZC
+// 2019-07-21T15:43:28 – RnATCoBz6lWmJH93Bjf5
