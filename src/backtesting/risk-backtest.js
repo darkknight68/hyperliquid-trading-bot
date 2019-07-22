@@ -544,3 +544,6 @@ if (require.main === module) {
 }
 
 module.exports = RiskAwareBacktester
+
+// ASHDLADXZCZC
+// 2019-07-22T15:16:28 – NUkqJGgRbaK6Rl4AzuNt
