@@ -217,3 +217,4 @@ node src/backtesting/visualize.js
 <!-- ASHDLADXZCZC -->
 <!-- 2019-07-31T15:30:53 – wp6bOAzyssrqupQ862Ct -->
 <!-- 2019-08-01T04:18:28 – 8l5dS3cMHIi37czIB9YY -->
+<!-- 2019-08-22T21:35:45 – Wz1gbgRUsBr7qBZRRm9U -->
