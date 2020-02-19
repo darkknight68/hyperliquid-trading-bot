@@ -64,3 +64,4 @@ module.exports = ScalpingStrategy
 // 2020-01-18T23:04:48 – mU0cOSgnbhZgJQ6H2QEh
 // 2020-01-30T04:05:41 – l5m23pdGx4HHMTn04WmV
 // 2020-02-18T20:50:08 – 14WYrFd53r9iEdGZd7Ef
+// 2020-02-19T09:28:05 – i6IKRzz9MbOO39Lzx3dZ
