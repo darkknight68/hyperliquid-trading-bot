@@ -243,3 +243,4 @@ node src/backtesting/visualize.js
 <!-- 2020-04-10T07:21:55 – q2ckcg2qCew0D4wKNv04 -->
 <!-- 2020-04-10T14:19:23 – MnSHdbs25Dy7v9yaGFXt -->
 <!-- 2020-04-28T14:50:29 – PO0o1DtTu9Jai1urwym1 -->
+<!-- 2020-05-04T10:29:51 – sjC27mQ8eXajPXJS20mo -->
