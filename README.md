@@ -247,3 +247,4 @@ node src/backtesting/visualize.js
 <!-- 2020-05-12T20:30:05 – 0UbIbzlIP7MSLMg987D8 -->
 <!-- 2020-05-17T22:46:46 – gdv86MQkjPko4rXqUf6p -->
 <!-- 2020-05-20T19:23:23 – I9gXeUHIXIONLeB8MJQD -->
+<!-- 2020-06-01T21:27:49 – AVGAK2ubohP4MGq9zN5k -->
