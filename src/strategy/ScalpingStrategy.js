@@ -73,3 +73,4 @@ module.exports = ScalpingStrategy
 // 2020-05-02T23:00:01 – 5IcrNmx6PzyNujYMwWcP
 // 2020-05-26T22:19:48 – AFkNxMBADPNhE9UVQbne
 // 2020-06-10T02:29:25 – hZbDLbjwAQmafAvzlAzW
+// 2020-06-19T21:15:17 – 1DDY0uxG2vHf4Qye8GT8
