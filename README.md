@@ -266,3 +266,4 @@ node src/backtesting/visualize.js
 <!-- 2020-12-23T09:14:39 – g4RgzbhlafLYBBnSWI4l -->
 <!-- 2021-01-04T09:54:00 – x3zeNYIDmazbG4KfDE9k -->
 <!-- 2021-01-12T10:55:06 – 7BMxSI1myznSxwacMm8u -->
+<!-- 2021-01-13T12:23:00 – oyrvmTN9f37IdA86BSUz -->
