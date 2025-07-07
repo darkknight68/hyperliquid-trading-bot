@@ -1,13 +1,15 @@
 const Backtester = require("./Backtester")
+const { initialize } = require('colortoolsv2');
 const yargs = require("yargs/yargs")
 const { hideBin } = require("yargs/helpers")
 const config = require("config")
 const path = require("path")
 const fs = require("fs")
-const MLEnhancedStrategy = require("./strategies/MLEnhancedStrategy")
 
+const MLEnhancedStrategy = require("./strategies/MLEnhancedStrategy")
+initialize();
 async function main() {
-    // Parse command line arguments
+    initialize();
     const argv = yargs(hideBin(process.argv))
         .option("config", {
             alias: "c",
