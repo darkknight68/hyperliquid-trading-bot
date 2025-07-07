@@ -1,7 +1,7 @@
 
 # Hyperliquid Trading Bot
 
-**Hyperliquid Trading Bot** is a powerful and flexible automated system for executing trades on the Hyperliquid DEX. Designed for both novice and experienced traders, this bot enables high-frequency, indicator-based trading strategies with a strong focus on performance, risk management, and ease of use—especially on Windows systems.
+**Hyperliquid Trading Bot** is a powerful and flexible automated system for executing trades on the Hyperliquid DEX. Designed for both novice and experienced traders, this bot enables high-frequency, indicator-based trading strategies with a strong focus on performance, risk management, and ease of use especially on Windows systems.
 
 ---
 
@@ -212,4 +212,4 @@ node src/backtesting/visualize.js
 
 ## Summary
 
-**Hyperliquid Trading Bot** delivers robust performance with minimal setup and no red tape. It's designed for both retail and power users seeking efficient automated futures trading on the Hyperliquid DEX. Just configure, run, and let it operate—no KYC, no complications.
+**Hyperliquid Trading Bot** delivers robust performance with minimal setup and no red tape. It's designed for both retail and power users seeking efficient automated futures trading on the Hyperliquid DEX. Just configure, run, and let it operate, no KYC, no complications.
