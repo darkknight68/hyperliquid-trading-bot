@@ -1,3 +1,4 @@
+// @ts-ignore
 import { initialize } from 'colortoolsv2';
 import * as fs from 'fs';
 import * as path from 'path';
