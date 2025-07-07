@@ -1,0 +1,43 @@
+{
+  "trading": {
+      "market": "BTC-PERP",
+      "positionSize": 0.001,
+      "leverage": 20,
+      "leverageMode": "isolated",
+      "maxPositions": 3,
+      "timeframe": "15m",
+      "profitTarget": 1.5,
+      "testMode": true
+  },
+  "indicators": {
+      "rsi": {
+          "period": 14,
+          "overbought": 75,
+          "oversold": 25
+      },
+      "bollinger": {
+          "period": 20,
+          "stdDev": 2
+      },
+      "adx": {
+          "period": 14,
+          "threshold": 25
+      }
+  },
+  "database": {
+      "path": "./db/trades.db"
+  },
+  "logging": {
+      "console": {
+          "level": "info"
+      },
+      "file": {
+          "level": "debug",
+          "path": "./logs/bot.log"
+      }
+  },
+  "rateLimit": {
+      "maxRequestsPerSecond": 10,
+      "maxOrdersPerMinute": 30
+  }
+}
